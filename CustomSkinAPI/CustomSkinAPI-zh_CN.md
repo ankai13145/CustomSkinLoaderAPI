@@ -106,7 +106,7 @@ CustomSkinLoader 已经在 14.5 版本支持CustomSkinAPI R2
 ## API 接口
 ### 获取玩家信息
 请求 URL：`{ROOT}/{USERNAME}.json`
-
+littleskin.cn
 其中 `{USERNAME}` 大小写可随意。
 
 响应：
